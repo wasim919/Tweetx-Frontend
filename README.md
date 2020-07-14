@@ -4,7 +4,7 @@ This is a mini social media developed using MERN Stack. The user can follow, cre
 
 ### Run the app
 
-> Clone the backend required for this app from :
+> Clone the backend required for this app from : [https://github.com/wasim919/Tweetx-backend]url(https://github.com/wasim919/Tweetx-backend)
 
 > Clone this to your local machine.
 
